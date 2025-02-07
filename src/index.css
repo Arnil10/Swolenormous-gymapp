@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+#root{
+  --color-blue:#42A5F5
+}
+*{
+  font-family: "Poppins",sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+.heroButton{
+  border-radius: 10px;
+  border: 1px solid var(--color-blue);
+  box-shadow: 2px 2px 0px var(--color-blue);
+  transition-duration: 0.2s;
+}
+
+.heroButton:hover{
+  cursor:pointer;
+  background: #1e2e3a;
+  transform: translate(-3px,-3px);
+  
+}
+
+
