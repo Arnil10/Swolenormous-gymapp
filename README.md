@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-<img src="public/logo.png" alt="Swolenormous Logo" width="200%" height="200%">
+<img src="public/image.png" alt="Swolenormous Logo" width="200%" height="200%">
 </td>
 <td>
 <b><i>Swolenormous is a smart fitness app that recommends personalized workout routines based on your goals, preferred exercise types, and targeted muscle groups. It also helps you track your workout progress and provides form guidance and descriptions for each exercise.</i></b>
